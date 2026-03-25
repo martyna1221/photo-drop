@@ -1,0 +1,4 @@
+node_modules/
+uploads/
+certs/
+config.json
