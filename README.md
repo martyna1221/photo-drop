@@ -1,3 +1,5 @@
+![alt text](photo-drop_3.png) ![alt text](photo-drop_5.png)
+
 # photo-drop
 
 Local HTTPS server for transferring photos from an iPhone to a Windows laptop over WiFi. No apps, no accounts, no subscriptions — just Safari on the phone.
