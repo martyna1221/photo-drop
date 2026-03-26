@@ -168,7 +168,3 @@ netsh advfirewall firewall set rule name="Node.js JavaScript Runtime" dir=in pro
 - CLI args for custom port and output folder
 - Drag-and-drop on the web UI
 - Upload history / re-download from the phone
-
-## License
-
-MIT
